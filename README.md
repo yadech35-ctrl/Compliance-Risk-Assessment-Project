@@ -15,8 +15,8 @@ The purpose of this project is to demonstrate the ability to:
 
 | File | Description |
 |------|-------------|
-| `detailed-assessment.md` | Full compliance risk assessment, including risk matrix, key risk analysis, mitigation strategies, monitoring plan, and reflection section. |
-| `executive-summary.md` | One-page summary highlighting top compliance risks, key takeaways, and reflection for quick review by decision-makers or recruiters. |
+| `Assessment-with-Detail.md` | Full compliance risk assessment, including risk matrix, key risk analysis, mitigation strategies, monitoring plan, and reflection section. |
+| `Summary.md` | One-page summary highlighting top compliance risks, key takeaways, and reflection for quick review by decision-makers or recruiters. |
 
 ---
 
@@ -30,8 +30,8 @@ The purpose of this project is to demonstrate the ability to:
 ---
 
 ## How to Use
-1. Browse `executive-summary.md` for a quick overview of the top compliance risks.  
-2. Refer to `detailed-assessment.md` for a complete breakdown, including risk ratings, mitigation strategies, and ongoing monitoring plans.  
+1. Browse `Summary.md` for a quick overview of the top compliance risks.  
+2. Refer to `Assessment-with-Detail.md` for a complete breakdown, including risk ratings, mitigation strategies, and ongoing monitoring plans.  
 3. Review the reflection sections to understand the learning outcomes and reasoning behind each risk assessment.  
 
 ---
